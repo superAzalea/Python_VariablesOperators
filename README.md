@@ -1,7 +1,5 @@
 # Python_day2_Python_Variables_operators
-![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_1.png)
-https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_1.png
-#=======
+#==========================================
 ##变量（variables）
 ###编程风格：
      标识符第一个字符 大小写字母或下划线；
