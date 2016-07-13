@@ -24,26 +24,36 @@
 ##数据类型
 ###按特征分类
      （1）数字类型
-            * 整型
-            * 布尔型 （True、 False）
-            * 长整型(L)
+            * 整型  
+            
+            * 布尔型 （True、 False)  
+            
+            * 长整型(L)  
+            
             * 标准整型  
             
 ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_3.png)
-            * 非整型
+            * 非整型  
+            
             * 双精度浮点型  
             
-  ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_4.png)
-            * 复数
-            * decimal（不是内建类型）
+  ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_4.png)  
+  
+            * 复数  
+            
+            * decimal（不是内建类型)  
+            
       （2）序列类型
             * 字符型(str)  
             
 ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_5.png)  
 
-![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_6.png)
-            * 元组(tuple)
-            * 列表(list)
+![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_6.png)  
+
+            * 元组(tuple)  
+            
+            * 列表(list)  
+            
 ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_7.png)  
 
       （3）映像类型
@@ -52,8 +62,10 @@
 ![azalea](https://github.com/superAzalea/Python_day2_Python_Variables_operators/blob/master/images_day2/day2_8.png)  
 
        （4）集合类型
-            * 可变集合(set)
-            * 不可变集合(frozenset)
+            * 可变集合(set)  
+            
+            * 不可变集合(frozenset)  
+            
 ###按可变性划分
        （1）可哈希的，不可变数据类型
             * 数字类型
